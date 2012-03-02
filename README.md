@@ -11,11 +11,11 @@ This tutorial will teach how to:
 * Mash-up data from different services and send data to device.
 * Use Javascript on the cloud.
 
-## Workbase Structure (v1 Branch)
+## Workbase Structure
 <img src="https://github.com/keyang-feedhenry/Business/raw/master/docs/projectstructure.png"/>
 
 
-## SOAP Service Integration (v2 Branch)
+## SOAP Service Integration (v1 Branch)
 
 ### Step 1 -- Prepare 
 #### Web Service Used
@@ -104,7 +104,7 @@ Write client-side code and link those files. Check out v2 branch to explore the 
 
 
 
-## REST Service Integration (v3 Branch)
+## REST Service Integration (v2 Branch)
 
 ### Step 1 -- Prepare
 #### Web Service Used
@@ -263,7 +263,7 @@ Write client-side code and link those files. Check out v3 branch to explore the 
 
 
 
-## MASH UP - JSONP and SOAP (v4 Branch)
+## MASH UP - JSONP and SOAP (v3 Branch)
 
 ### Step 1 -- Prepare
 #### Web Service Used
